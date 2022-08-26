@@ -17,6 +17,7 @@
   </properties>
 
   <dependencies>
+    <!--
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
@@ -27,6 +28,7 @@
       <artifactId>jooq</artifactId>
       <version>3.12.3</version>
     </dependency>
+    -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
